@@ -1,10 +1,10 @@
 # Corporate Actions & Asset Servicing – Power BI Dashboard
-
+---
 🔒 Disclaimer
 
 All data in this project is synthetic and generated purely for learning and demonstration purposes.
 It does not represent any real client, trade, or production system.
-
+---
 A Power BI dashboard simulating a real **Asset Servicing / Corporate Actions Workbench** for an investment bank.
 
 It covers the full flow from **corporate action events → client entitlements → payments → FX bookings → SWIFT messages (MT566 / MT202)** with drillthrough investigation screens.
